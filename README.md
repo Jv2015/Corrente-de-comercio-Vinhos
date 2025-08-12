@@ -24,4 +24,4 @@ Destaques:
 
 -Automatização de processos para atualização periódica dos relatórios.
 
-Próximos passos: Inclusão de dados de consumo interno e projeções de demanda.
+
