@@ -16,7 +16,7 @@ Objetivo do Estudo:
 
 -Oportunidades de otimização de custos (tarifas, logística, escolha de origens).
 
-Impacto de variáveis macroeconômicas (câmbio, acordos comerciais) no setor.
+-Entender o comportamento do mercado.
 
 Destaques:
 
